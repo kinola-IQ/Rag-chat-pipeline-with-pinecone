@@ -1,12 +1,12 @@
 # RAG Chatbot with Pinecone
 
-This project implements a Retrieval-Augmented Generation (RAG) chatbot using Pinecone for vector search and OpenAI for language generation. It is designed to efficiently ingest, store, and query large datasets for conversational AI applications.
+This project implements a Retrieval-Augmented Generation (RAG) chat pipeline using Pinecone for vector search and OpenAI for language generation. It is designed to efficiently ingest, store, and query large datasets for conversational AI applications.
 
 ## Features
 - Ingests data in parallel batches into Pinecone
 - Uses OpenAI models for generating responses
 - Environment variable management with dotenv
-- Modular and extensible code structure
+- Modular, well documented and extensible code structure
 
 ## Setup
 
